@@ -1,6 +1,6 @@
 <h1 align="center">I'm Rafa Gutierrez</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CD03&background=FFFFFF&width=290&lines=Cybersecurity+Analyst;Software+Security;Digital+Forensic+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3339ff&background=ffffff&width=290&lines=Cybersecurity+Analyst;Software+Security;Digital+Forensic+Analyst" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">
